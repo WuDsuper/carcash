@@ -5,5 +5,5 @@
  * ตัวอย่าง: "https://script.google.com/macros/s/AKfycb..../exec"
  */
 window.APP_CONFIG = {
-  API_URL: ""
+  API_URL: "https://script.google.com/macros/s/AKfycbyMerM8iDrzt5kMvL_JYBip4ZrkqGVFRbHS2_pPLk5VFn3Y9h7yL7qYBk60K34pUe77XA/exec"
 };
